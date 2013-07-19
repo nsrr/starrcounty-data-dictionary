@@ -1,4 +1,4 @@
-starrcounty-data-dictionary
+Starr County Data Dictionary
 ===========================
 
 A description of the data and variables collected as part of the Starr County WatchPAT project.
