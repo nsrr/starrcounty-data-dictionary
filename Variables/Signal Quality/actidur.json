@@ -1,0 +1,6 @@
+{
+  "id": "actidur",
+  "display_name": "Actigraphy Signal Duration",
+  "description": "",
+  "type": "numeric"
+}

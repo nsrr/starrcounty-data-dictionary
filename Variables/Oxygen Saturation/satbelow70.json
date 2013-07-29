@@ -1,0 +1,7 @@
+{
+  "id": "satbelow70",
+  "display_name": "Oxygen Saturations Below 70",
+  "description": "",
+  "type": "numeric",
+  "units": "event count"
+}

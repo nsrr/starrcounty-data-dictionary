@@ -1,0 +1,7 @@
+{
+  "id": "sleepinleft_",
+  "display_name": "Percent of Sleep on Left",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

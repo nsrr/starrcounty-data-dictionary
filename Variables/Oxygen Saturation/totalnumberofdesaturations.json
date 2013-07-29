@@ -1,0 +1,7 @@
+{
+  "id": "totalnumdesat",
+  "display_name": "Total Number of Desaturations",
+  "description": "",
+  "type": "numeric",
+  "units": "event count"
+}

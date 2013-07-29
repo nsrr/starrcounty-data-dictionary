@@ -1,0 +1,7 @@
+{
+  "id": "rem_odi",
+  "display_name": "pODI in REM",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

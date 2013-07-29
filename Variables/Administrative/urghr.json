@@ -1,0 +1,7 @@
+{
+  "id": "urghr",
+  "display_name": "Urgent Heart Rate (HR>150 or <30)",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

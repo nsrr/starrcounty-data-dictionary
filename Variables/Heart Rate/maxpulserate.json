@@ -1,0 +1,7 @@
+{
+  "id": "maxpulserate",
+  "display_name": "Maximum Pulse Rate During Sleep",
+  "description": "",
+  "type": "integer",
+  "units": "beats per minute"
+}

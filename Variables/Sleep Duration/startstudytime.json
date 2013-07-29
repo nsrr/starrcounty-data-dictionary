@@ -1,0 +1,6 @@
+{
+  "id": "studystarttime",
+  "display_name": "Study Start Time",
+  "description": "",
+  "type": "time"
+}

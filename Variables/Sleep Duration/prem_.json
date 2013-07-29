@@ -1,0 +1,7 @@
+{
+  "id": "prem_",
+  "display_name": "Sleep Time Spent in REM",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

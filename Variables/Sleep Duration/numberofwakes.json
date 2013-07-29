@@ -1,0 +1,7 @@
+{
+  "id": "numberofwakes",
+  "display_name": "Number of Wakes",
+  "description": "",
+  "type": "numeric",
+  "units": "events"
+}

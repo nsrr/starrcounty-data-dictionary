@@ -1,0 +1,7 @@
+{
+  "id": "urgahi50",
+  "display_name": "Urgent AHI (>50)",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

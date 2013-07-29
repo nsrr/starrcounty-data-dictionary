@@ -1,0 +1,7 @@
+{
+  "id": "rsnco",
+  "display_name": "Failure Reason",
+  "description": "",
+  "type": "choices",
+  "domain": "failrsn"
+}

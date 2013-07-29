@@ -1,0 +1,6 @@
+{
+  "id": "patdur",
+  "display_name": "PAT Signal Duration",
+  "description": "",
+  "type": "numeric"
+}

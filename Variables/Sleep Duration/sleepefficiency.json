@@ -1,0 +1,7 @@
+{
+  "id": "sleepefficiency",
+  "display_name": "Percent of Night Spent Sleeping",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

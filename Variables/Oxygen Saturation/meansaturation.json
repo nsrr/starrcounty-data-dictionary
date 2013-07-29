@@ -1,0 +1,7 @@
+{
+  "id": "meansaturation",
+  "display_name": "Mean Oxygen Saturation",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "prdiinright",
+  "display_name": "pRDI on Right",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "sleepduringright",
+  "display_name": "Total Minutes Slept on Right",
+  "description": "",
+  "type": "time"
+}

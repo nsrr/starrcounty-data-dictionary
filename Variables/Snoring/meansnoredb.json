@@ -1,0 +1,7 @@
+{
+  "id": "meansnoredb",
+  "display_name": "Mean Snore dB",
+  "description": "",
+  "type": "numeric",
+  "units": "dB"
+}

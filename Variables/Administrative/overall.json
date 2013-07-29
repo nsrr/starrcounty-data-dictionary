@@ -1,0 +1,7 @@
+{
+  "id": "overall",
+  "display_name": "Overall Grade",
+  "description": "",
+  "type": "choices",
+  "domain": "overall"
+}

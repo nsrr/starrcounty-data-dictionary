@@ -1,0 +1,37 @@
+[
+  {
+    "value": "1",
+    "display_name": "Initialization Failure",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Discomfort Removal",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Battery Malfunction",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Oximeter Misplacement",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Probe Misplacement",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Study Too Short",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Other",
+    "description": ""
+  }
+]

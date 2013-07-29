@@ -1,0 +1,7 @@
+{
+  "id": "pataqu",
+  "display_name": "PAT Amplitude Signal Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "signalqual"
+}

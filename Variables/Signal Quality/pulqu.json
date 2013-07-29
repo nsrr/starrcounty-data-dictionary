@@ -1,0 +1,7 @@
+{
+  "id": "pulqu",
+  "display_name": "Pulse Signal Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "signalqual"
+}

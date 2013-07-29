@@ -1,0 +1,7 @@
+{
+  "id": "actiqu",
+  "display_name": "Actigraphy Signal Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "signalqual"
+}

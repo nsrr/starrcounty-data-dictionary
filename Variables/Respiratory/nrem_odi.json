@@ -1,0 +1,7 @@
+{
+  "id": "nrem_odi",
+  "display_name": "pODI in NREM",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

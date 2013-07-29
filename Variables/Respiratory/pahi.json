@@ -1,0 +1,7 @@
+{
+  "id": "pahi",
+  "display_name": "All Night pAHI",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

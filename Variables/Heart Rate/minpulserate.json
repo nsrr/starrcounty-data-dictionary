@@ -1,0 +1,7 @@
+{
+  "id": "minpulserate",
+  "display_name": "Minimum Pulse Rate During Sleep",
+  "description": "",
+  "type": "integer",
+  "units": "beats per minute"
+}

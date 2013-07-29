@@ -1,0 +1,7 @@
+{
+  "id": "podiinsupine",
+  "display_name": "pODI in Supine",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

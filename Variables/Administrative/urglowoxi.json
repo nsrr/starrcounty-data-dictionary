@@ -1,0 +1,7 @@
+{
+  "id": "urglowoxi",
+  "display_name": "Urgent Low Oximetry (<85% for >10% of Total Sleep Time)",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

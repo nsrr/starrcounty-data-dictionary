@@ -1,0 +1,7 @@
+{
+  "id": "nrem_ahi",
+  "display_name": "pAHI in NREM",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

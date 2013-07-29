@@ -1,0 +1,7 @@
+{
+  "id": "remplatency_min_",
+  "display_name": "REM Latency Minutes",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

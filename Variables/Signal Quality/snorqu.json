@@ -1,0 +1,7 @@
+{
+  "id": "snorqu",
+  "display_name": "Snore Signal Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "signalqual"
+}

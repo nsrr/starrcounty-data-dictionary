@@ -1,0 +1,7 @@
+{
+  "id": "deepsleep_",
+  "display_name": "Sleep Time Spent in Deep Sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

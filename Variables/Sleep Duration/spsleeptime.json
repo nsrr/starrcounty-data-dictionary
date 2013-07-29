@@ -1,0 +1,6 @@
+{
+  "id": "spsleeptime",
+  "display_name": "Total Sleep Time",
+  "description": "",
+  "type": "time"
+}

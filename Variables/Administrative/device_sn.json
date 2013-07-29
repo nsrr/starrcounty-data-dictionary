@@ -1,0 +1,6 @@
+{
+  "id": "device_sn",
+  "display_name": "Device Serial Number",
+  "description": "",
+  "type": "string"
+}

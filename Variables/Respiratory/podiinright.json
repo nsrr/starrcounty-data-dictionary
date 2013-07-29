@@ -1,0 +1,7 @@
+{
+  "id": "podiinright",
+  "display_name": "pODI on Right",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

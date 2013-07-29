@@ -1,0 +1,7 @@
+{
+  "id": "meandesatnadirs",
+  "display_name": "Mean of Desaturation Nadirs Percent",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

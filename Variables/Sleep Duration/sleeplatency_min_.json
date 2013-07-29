@@ -1,0 +1,7 @@
+{
+  "id": "sleeplatency_min_",
+  "display_name": "Sleep Latency Minutes",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "urgalerts",
+  "display_name": "Urgent Alerts (Any Noted?)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno01"
+}

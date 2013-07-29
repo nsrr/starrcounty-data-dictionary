@@ -1,0 +1,7 @@
+{
+  "id": "prdi",
+  "display_name": "All Night pRDI",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

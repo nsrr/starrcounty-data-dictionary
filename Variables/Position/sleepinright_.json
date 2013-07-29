@@ -1,0 +1,7 @@
+{
+  "id": "sleepinright_",
+  "display_name": "Percent of Sleep on Right",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

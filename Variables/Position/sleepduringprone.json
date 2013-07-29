@@ -1,0 +1,6 @@
+{
+  "id": "sleepduringprone",
+  "display_name": "Total Minutes Slept in Prone",
+  "description": "",
+  "type": "time"
+}

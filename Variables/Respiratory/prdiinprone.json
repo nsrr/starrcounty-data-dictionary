@@ -1,0 +1,7 @@
+{
+  "id": "prdiinprone",
+  "display_name": "pRDI in Prone",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

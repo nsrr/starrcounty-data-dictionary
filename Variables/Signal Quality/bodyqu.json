@@ -1,0 +1,7 @@
+{
+  "id": "bodyqu",
+  "display_name": "Body Position Signal Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "signalqual"
+}

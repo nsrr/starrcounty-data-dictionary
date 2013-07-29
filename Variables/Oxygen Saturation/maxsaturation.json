@@ -1,0 +1,7 @@
+{
+  "id": "maxsaturation",
+  "display_name": "Maximum Oxygen Saturation",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

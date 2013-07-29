@@ -1,0 +1,7 @@
+{
+  "id": "podi",
+  "display_name": "All Night pODI",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

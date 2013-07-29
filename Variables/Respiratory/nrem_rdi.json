@@ -1,0 +1,7 @@
+{
+  "id": "nrem_rdi",
+  "display_name": "pRDI in NREM",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

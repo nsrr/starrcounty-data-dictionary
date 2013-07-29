@@ -1,0 +1,7 @@
+{
+  "id": "patqu",
+  "display_name": "PAT Signal Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "signalqual"
+}

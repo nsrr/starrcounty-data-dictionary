@@ -1,0 +1,7 @@
+{
+  "id": "techid",
+  "display_name": "Tech ID",
+  "description": "",
+  "type": "choices",
+  "domain": "techid"
+}

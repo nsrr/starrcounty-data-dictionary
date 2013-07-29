@@ -1,0 +1,7 @@
+{
+  "id": "oxiqu",
+  "display_name": "Oximetry Signal Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "signalqual"
+}

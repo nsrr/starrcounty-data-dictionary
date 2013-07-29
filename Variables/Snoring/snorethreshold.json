@@ -1,0 +1,6 @@
+{
+  "id": "snorethreshold",
+  "display_name": "Snore Threshold (40 dB)",
+  "description": "",
+  "type": "numeric"
+}

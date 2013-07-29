@@ -1,0 +1,6 @@
+{
+  "id": "sleepoverthreshold",
+  "display_name": "Minutes of Snoring Over Threshold",
+  "description": "",
+  "type": "time"
+}

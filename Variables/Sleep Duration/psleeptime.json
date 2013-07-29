@@ -1,0 +1,6 @@
+{
+  "id": "psleeptime",
+  "display_name": "Percent of Sleep Time Spent in REM",
+  "description": "",
+  "type": "time"
+}

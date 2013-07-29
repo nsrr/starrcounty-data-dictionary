@@ -1,0 +1,7 @@
+{
+  "id": "sleepover70_",
+  "display_name": "Percent of Sleep Snoring Over 70dB",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

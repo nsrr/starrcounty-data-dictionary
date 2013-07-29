@@ -1,0 +1,7 @@
+{
+  "id": "pahiinleft",
+  "display_name": "pAHI on Left",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}
