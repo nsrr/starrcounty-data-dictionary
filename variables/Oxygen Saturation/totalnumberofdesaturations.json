@@ -1,5 +1,5 @@
 {
-  "id": "totalnumdesat",
+  "id": "totalnumberofdesaturations",
   "display_name": "Total Number of Desaturations",
   "description": "",
   "type": "numeric",
