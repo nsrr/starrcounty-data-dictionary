@@ -1,6 +1,6 @@
 {
-  "id": "podiinright",
-  "display_name": "pODI on Right",
+  "id": "odiinprone",
+  "display_name": "ODI in Prone",
   "description": "",
   "type": "numeric",
   "units": "events per hour"

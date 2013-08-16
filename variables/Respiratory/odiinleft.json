@@ -1,6 +1,6 @@
 {
-  "id": "podiinleft",
-  "display_name": "pODI on Left",
+  "id": "odiinleft",
+  "display_name": "ODI on Left",
   "description": "",
   "type": "numeric",
   "units": "events per hour"

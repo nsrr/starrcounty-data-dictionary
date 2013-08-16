@@ -1,6 +1,6 @@
 {
-  "id": "podiinsupine",
-  "display_name": "pODI in Supine",
+  "id": "odi",
+  "display_name": "All Night ODI",
   "description": "",
   "type": "numeric",
   "units": "events per hour"
