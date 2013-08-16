@@ -1,0 +1,7 @@
+{
+  "id": "studytype",
+  "display_name": "Study Type",
+  "description": "",
+  "type": "choices",
+  "domain": "studytype"
+}
