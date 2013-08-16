@@ -1,0 +1,7 @@
+{
+  "id": "sleepoverthreshold_",
+  "display_name": "Percent of Sleep Snoring Over Threshold",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}
