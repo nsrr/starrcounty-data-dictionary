@@ -1,5 +1,5 @@
 Starr County Data Dictionary
-===========================
+============================
 
 [![Build Status](https://travis-ci.org/sleepepi/starrcounty-data-dictionary.png?branch=master)](https://travis-ci.org/sleepepi/starrcounty-data-dictionary)
 
